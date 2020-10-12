@@ -5,7 +5,7 @@ Work in progress...
 
 Every city's data is at `src/data.json`
 
-![preview](https://raw.githubusercontent.com/UnnoTed/cityinfo/master/preview.jpg)
+![preview](https://raw.githubusercontent.com/UnnoTed/cityinfo/master/cityinfo.jpg)
 
 ## Install the dependencies
 
