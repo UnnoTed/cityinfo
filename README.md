@@ -1,6 +1,7 @@
 # CityInfo
 
 nomadlist's data but available for free
+
 Work in progress...
 
 Every city's data is at `src/data.json`
