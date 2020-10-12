@@ -2,7 +2,7 @@
 
 nomadlist's data but available for free
 
-Work in progress...
+Work in progress... not all filters are implemenTed yet.
 
 Every city's data is at `src/data.json`
 
